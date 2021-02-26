@@ -4,7 +4,7 @@
 
 ## Application
 
-This repo can be applied to either infrastructure repo: `vpc-hcl` or `multi-vpc-hcl`
+This repo can be applied to infrastructure repo `vpc-hcl`
 
 The nested directory `security` which contains configuration for the security vpc
 
